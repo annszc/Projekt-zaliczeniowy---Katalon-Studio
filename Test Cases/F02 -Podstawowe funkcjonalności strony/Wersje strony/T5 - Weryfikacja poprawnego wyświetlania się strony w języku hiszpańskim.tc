@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T5 - Weryfikacja poprawnego wyświetlania się strony w języku hiszpańskim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7c62880-c665-4ff5-b898-e530029f40a8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e6c35842-285d-4d34-a298-4500d0f06a53</id>
+      <masked>false</masked>
+      <name>varMessage</name>
+   </variable>
+</TestCaseEntity>

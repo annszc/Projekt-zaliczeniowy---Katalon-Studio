@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T3 - Weryfikacja poprawnego działania formularza kontaktowego (User Customer)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>11561fe5-e40e-42eb-bf4c-22db89722b59</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4f9b1d4c-a463-40ba-b1b7-c30eabeb22d7</id>
+      <masked>false</masked>
+      <name>varMessage</name>
+   </variable>
+</TestCaseEntity>

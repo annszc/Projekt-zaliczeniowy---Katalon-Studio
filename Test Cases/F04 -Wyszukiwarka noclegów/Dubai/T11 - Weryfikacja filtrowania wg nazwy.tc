@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T11 - Weryfikacja filtrowania wg nazwy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e131620b-9b4c-4cf1-bb14-371892eb303e</testCaseGuid>
+   <variable>
+      <defaultValue>'Dubai'</defaultValue>
+      <description></description>
+      <id>65d0eb4b-5076-478c-831b-573d12354a59</id>
+      <masked>false</masked>
+      <name>varCity_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rose Rayhaan Rotana '</defaultValue>
+      <description></description>
+      <id>0ef47a99-17e5-47f5-b32f-9f0eb4390110</id>
+      <masked>false</masked>
+      <name>varHotel_name</name>
+   </variable>
+</TestCaseEntity>

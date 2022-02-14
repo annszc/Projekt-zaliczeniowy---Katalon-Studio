@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T12 - Sprawdzenie działania wyszukiwarki noclegów</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1fb46de8-33f6-4631-b467-c7b15e06c028</testCaseGuid>
+   <variable>
+      <defaultValue>'Dubai'</defaultValue>
+      <description></description>
+      <id>c8ffd0d0-8fa8-431f-af6e-83f59d626402</id>
+      <masked>false</masked>
+      <name>varCity_name</name>
+   </variable>
+</TestCaseEntity>

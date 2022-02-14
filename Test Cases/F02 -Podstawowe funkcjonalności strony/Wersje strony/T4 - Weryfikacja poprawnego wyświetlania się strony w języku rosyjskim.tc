@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T4 - Weryfikacja poprawnego wyświetlania się strony w języku rosyjskim</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>393e9a7d-0700-49ce-bea0-60d6b5f2accf</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5d65c6b-5d57-4835-9b19-4f26bc1ab745</id>
+      <masked>false</masked>
+      <name>varMessage</name>
+   </variable>
+</TestCaseEntity>

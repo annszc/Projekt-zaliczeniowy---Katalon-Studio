@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T2 - Logowanie przy użyciu nieprawidłowych danych</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eecd0a3f-ccf6-4e96-99f9-f2fa3cd313e4</testCaseGuid>
+   <variable>
+      <defaultValue>'agent@phptravels.com'</defaultValue>
+      <description></description>
+      <id>8d7b0a81-b339-4ad0-91c8-817c10eebaa1</id>
+      <masked>false</masked>
+      <name>varLogin</name>
+   </variable>
+   <variable>
+      <defaultValue>'demoagent'</defaultValue>
+      <description></description>
+      <id>007e369f-c575-41a8-9593-002abac9ec19</id>
+      <masked>false</masked>
+      <name>varPassword</name>
+   </variable>
+</TestCaseEntity>

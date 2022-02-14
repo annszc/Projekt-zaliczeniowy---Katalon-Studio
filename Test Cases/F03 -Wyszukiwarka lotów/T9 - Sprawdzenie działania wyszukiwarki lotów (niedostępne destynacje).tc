@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T9 - Sprawdzenie działania wyszukiwarki lotów (niedostępne destynacje)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56ef71c6-5a05-4bf3-aaf1-07995a1e8028</testCaseGuid>
+   <variable>
+      <defaultValue>'Warsaw'</defaultValue>
+      <description></description>
+      <id>65d42b35-e94f-4b2e-80ea-e5ae25d6cafa</id>
+      <masked>false</masked>
+      <name>varDestination1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Berlin'</defaultValue>
+      <description></description>
+      <id>2fb91ef3-c882-420d-9375-5bd41df516cd</id>
+      <masked>false</masked>
+      <name>varDestination2</name>
+   </variable>
+</TestCaseEntity>

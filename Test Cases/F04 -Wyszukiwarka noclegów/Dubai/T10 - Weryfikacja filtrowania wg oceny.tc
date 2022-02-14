@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T10 - Weryfikacja filtrowania wg oceny</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfa35859-8524-42ce-b5c0-4b7efbd8a794</testCaseGuid>
+   <variable>
+      <defaultValue>'Dubai'</defaultValue>
+      <description></description>
+      <id>ca5228ad-3da8-42ae-9120-a706128a4fc6</id>
+      <masked>false</masked>
+      <name>varCity_name</name>
+   </variable>
+</TestCaseEntity>

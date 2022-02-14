@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T8 - Sprawdzenie działania wyszukiwarki lotów (dostępne destynacje)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ec4c4df-1ef0-4b82-976e-47f3c09d394d</testCaseGuid>
+   <variable>
+      <defaultValue>'Florida'</defaultValue>
+      <description></description>
+      <id>2be8f3e7-5b42-41e7-bcb1-fb42d959d74c</id>
+      <masked>false</masked>
+      <name>varDestination1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Canada'</defaultValue>
+      <description></description>
+      <id>2ddd272d-4a30-4cfc-b00b-9ca045dfc7a3</id>
+      <masked>false</masked>
+      <name>varDestination2</name>
+   </variable>
+</TestCaseEntity>

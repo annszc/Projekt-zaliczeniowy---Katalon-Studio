@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T7 - Sprawdzenie działania wyszukiwarki lotów (dostępne destynacje)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53f12413-0bf0-4989-b669-cee47e79411a</testCaseGuid>
+   <variable>
+      <defaultValue>'Cairo'</defaultValue>
+      <description></description>
+      <id>4c93f947-8c86-41d3-974e-b864842d8130</id>
+      <masked>false</masked>
+      <name>varDestination1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ankara'</defaultValue>
+      <description></description>
+      <id>34ecac11-e941-4d83-8bee-67d72c53bad0</id>
+      <masked>false</masked>
+      <name>varDestination2</name>
+   </variable>
+</TestCaseEntity>

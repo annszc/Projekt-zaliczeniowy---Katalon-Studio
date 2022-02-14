@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T14 - Weryfikacja filtrowania wg oceny</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dddbffdd-ff1c-4fdd-8c37-726dd19e8df2</testCaseGuid>
+   <variable>
+      <defaultValue>'Istanbul'</defaultValue>
+      <description></description>
+      <id>345a76e0-0d00-490c-898b-eb4310b0ea7b</id>
+      <masked>false</masked>
+      <name>varCity_name</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T6 - Sprawdzenie działania wyszukiwarki lotów (dostępne destynacje)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00e48f11-783d-4176-bafc-802705981ac7</testCaseGuid>
+   <variable>
+      <defaultValue>'Dubai'</defaultValue>
+      <description></description>
+      <id>20780149-14f6-48be-b328-6457803e472f</id>
+      <masked>false</masked>
+      <name>varDestination1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kuwait'</defaultValue>
+      <description></description>
+      <id>5548b44e-beef-4691-bd99-58a30904650a</id>
+      <masked>false</masked>
+      <name>varDestination2</name>
+   </variable>
+</TestCaseEntity>

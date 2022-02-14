@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T20 - Rezerwacja noclegu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>69f3c0bd-1cce-47a4-af4f-50c9fe805d32</testCaseGuid>
+   <variable>
+      <defaultValue>'Singapore'</defaultValue>
+      <description></description>
+      <id>d7c41bce-6af2-4334-be52-fb7112e7e101</id>
+      <masked>false</masked>
+      <name>varCity_name</name>
+   </variable>
+</TestCaseEntity>

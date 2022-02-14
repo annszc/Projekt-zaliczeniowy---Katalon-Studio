@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T15 - Weryfikacja filtrowania wg nazwy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cec5181a-6aae-4a94-833d-fdb5bb78af34</testCaseGuid>
+   <variable>
+      <defaultValue>'Singapore'</defaultValue>
+      <description></description>
+      <id>88236ae0-88f7-4314-b279-94e002ae3ee8</id>
+      <masked>false</masked>
+      <name>varCity_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hotel Royal'</defaultValue>
+      <description></description>
+      <id>1017651c-6c74-42fa-aff4-31ef98ca7b5c</id>
+      <masked>false</masked>
+      <name>varHotel_name</name>
+   </variable>
+</TestCaseEntity>

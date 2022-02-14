@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T1 - Logowanie jako Customer_Agent_Admin_Supplier</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3a62e37-8ae2-4629-96c4-931df30a8d11</testCaseGuid>
+   <variable>
+      <defaultValue>'agent@phptravels.com'</defaultValue>
+      <description></description>
+      <id>192c4bae-31da-4674-86d5-abb46d1004d9</id>
+      <masked>false</masked>
+      <name>varLogin</name>
+   </variable>
+   <variable>
+      <defaultValue>'demoagent'</defaultValue>
+      <description></description>
+      <id>0eafc96a-a8ac-4ea3-a4b0-8fe8b80f207c</id>
+      <masked>false</masked>
+      <name>varPassword</name>
+   </variable>
+</TestCaseEntity>

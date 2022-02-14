@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T17 - Sprawdzenie działania wyszukiwarki noclegów</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebe7963d-d305-4b8d-8ebf-3b3f8e1867e0</testCaseGuid>
+   <variable>
+      <defaultValue>'Singapore'</defaultValue>
+      <description></description>
+      <id>b5d8fc62-3b73-4b63-88ee-55c291eb5c12</id>
+      <masked>false</masked>
+      <name>varCity_name</name>
+   </variable>
+</TestCaseEntity>

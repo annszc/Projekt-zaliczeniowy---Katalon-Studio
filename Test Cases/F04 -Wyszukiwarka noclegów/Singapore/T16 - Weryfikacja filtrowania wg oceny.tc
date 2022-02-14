@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T16 - Weryfikacja filtrowania wg oceny</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1688add2-e61e-4b01-b78e-a8ae6c763a62</testCaseGuid>
+   <variable>
+      <defaultValue>'Singapore'</defaultValue>
+      <description></description>
+      <id>ef38fd59-2a19-45cf-846e-e9336faf2ee8</id>
+      <masked>false</masked>
+      <name>varCity_name</name>
+   </variable>
+</TestCaseEntity>

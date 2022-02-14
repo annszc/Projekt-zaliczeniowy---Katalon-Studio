@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T13 - Sprawdzenie działania wyszukiwarki noclegów</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac343421-e986-4dfa-8b92-824475a6ad5a</testCaseGuid>
+   <variable>
+      <defaultValue>'Istanbul'</defaultValue>
+      <description></description>
+      <id>3ae12110-6ebe-49ba-a975-955d53869af7</id>
+      <masked>false</masked>
+      <name>varCity_name</name>
+   </variable>
+</TestCaseEntity>

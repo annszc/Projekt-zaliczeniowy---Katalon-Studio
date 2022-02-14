@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>T12 - Weryfikacja filtrowania wg nazwy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6b48631-a317-4272-b4ae-700955ca0970</testCaseGuid>
+   <variable>
+      <defaultValue>'Istanbul'</defaultValue>
+      <description></description>
+      <id>b131f065-f426-49cd-ba09-82bb5d0929f1</id>
+      <masked>false</masked>
+      <name>varCity_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Grand Plaza Apartments '</defaultValue>
+      <description></description>
+      <id>7a44cd52-1328-4c13-9e80-b1da2abb706e</id>
+      <masked>false</masked>
+      <name>varHotel_name</name>
+   </variable>
+</TestCaseEntity>
